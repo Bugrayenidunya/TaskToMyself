@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>307864185971-tusg5ejhlg0gqt9sf1k63g4b7u6cutal.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.307864185971-tusg5ejhlg0gqt9sf1k63g4b7u6cutal</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbmXeQ4NRe4BnYy-i87mzGVqRPc9yOTnA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>307864185971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.burayenidunya.TaskToMyself</string>
+	<key>PROJECT_ID</key>
+	<string>task-for-me-48c1a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>task-for-me-48c1a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:307864185971:ios:de347c798399b3311e8e06</string>
+	<key>DATABASE_URL</key>
+	<string>https://task-for-me-48c1a.firebaseio.com</string>
+</dict>
+</plist>
