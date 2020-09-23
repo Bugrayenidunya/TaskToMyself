@@ -2,6 +2,14 @@
 
 This repo includes my very first iOS project.
 
+## Usage
+
+For use the app on your Simulator, first you need to create a Firebase Project on https://firebase.google.com and follow to guide on Firebase.
+Then you must install the Pods you need. For that you must have CocoaPods installed on your Mac.
+
+After all setup process you ready to go!
+
+
 ## Requirements
  - iOS 13+
  - Swift 5+
